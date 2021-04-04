@@ -11,5 +11,8 @@ public class Demo {
 
         // 主干添加 --测试冲突
         System.out.println("主干添加");
+
+        // 分支添加 --测试冲突
+        System.out.println("分支添加");
     }
 }
