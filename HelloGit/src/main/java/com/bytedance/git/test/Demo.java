@@ -8,5 +8,8 @@ public class Demo {
         System.out.println("更新4");
 
         System.out.println("dev分支添加");
+
+        // 主干添加 --测试冲突
+        System.out.println("主干添加");
     }
 }
