@@ -15,5 +15,8 @@ public class Demo {
         // 分支添加 --测试冲突
         System.out.println("分支添加");
         System.out.println("在线更新");
+
+        // 克隆下来的项目
+        System.out.println("克隆");
     }
 }
